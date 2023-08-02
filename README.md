@@ -9,7 +9,7 @@ How to run
 ----------
 ### Setting parameters
 Before model training, some parameters need to be set. 
-You can adjust the values of these parameters in ```xxx```
+You can adjust the values of these parameters in ```dynamic_gcn.yaml```
 ### Training
 ``` bash
 python main.py --name CodeBots
